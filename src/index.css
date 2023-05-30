@@ -5,8 +5,9 @@
 }
 
 body {
-  background: #333;
-  color: hsl(200, 100%, 90%);
+  background: rgb(85, 76, 45);
+  /* background-image: url(./images/to-do-list-apps.png); */
+  color: hsl(101, 52%, 65%);
   max-width: 400px;
   padding: 1rem;
   margin: 0 auto;

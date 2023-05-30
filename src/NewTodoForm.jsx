@@ -2,7 +2,7 @@ import { useState } from "react";
 
 
 function NewTodoForm(props) {
-    props.onSubmit
+    // props.onSubmit
     const [newItem, setNewItem] = useState("");
 
     function handleSubmit(e) {
